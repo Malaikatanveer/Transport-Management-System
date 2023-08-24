@@ -1,0 +1,9 @@
+1 Malaika Tanveer 20 9 2001 829374 19
+1 R 200 300 Lahore Islamabad 500 0 87.6 17 6 2021 22 50 30 4 intracity 1 1 
+1 D 200 300 Lahore Islamabad 500 0 87.6 17 6 2021 22 50 30 10.8 Drugs intercity 
+2 Wardah Maqbool 2 3 2002 192864 21
+2 R 200 300 Lahore Andromeda_Galaxy 670 0 87.6 19 6 2021 22 50 30 4 intergalctic 1 1 
+2 D 200 300 Lahore Andromeda_Galaxy 142 0 87.6 17 3 2019 22 50 30 100000 Hope intercity 
+-12
+1 Ahsan Iftikhar 16 1 2002 783729 19
+1 Ahsan Iftikhar 16 1 2002 782 19

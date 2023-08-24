@@ -1,0 +1,16 @@
+1 Malaika Tanveer 20 9 2001 829374 19
+1 R 16 300 Lahore Islamabad 500 0 87.6 17 6 2021 22 50 30 4 intracity 1 1 2 HTV LTV 10
+1 D 17 300 Lahore Islamabad 500 0 87.6 17 6 2021 22 50 30 10.8 Drugs 2 HTV LTV 10
+-12
+1 Malaika Tanveer 20 9 2001 829374 19
+1 R 16 300 Lahore Islamabad 500 0 87.6 17 6 2021 22 50 30 4 intracity 1 1 2 HTV LTV 10
+1 D 17 300 Lahore Islamabad 500 0 87.6 17 6 2021 22 50 30 10.8 Drugs 2 HTV LTV 10
+-12
+1 Malaika Tanveer 20 9 2001 829374 19
+1 R 16 300 Lahore Islamabad 500 0 87.6 17 6 2021 22 50 30 4 intracity 1 1 2 HTV LTV 10
+1 D 17 300 Lahore Islamabad 500 0 87.6 17 6 2021 22 50 30 10.8 Drugs 2 HTV LTV 10
+-12
+1 Malaika Tanveer 20 9 2001 829374 19
+1 R 16 300 Lahore Islamabad 500 0 87.6 17 6 2021 22 50 30 4 intracity 1 1 2 HTV LTV 10
+1 D 17 300 Lahore Islamabad 500 0 87.6 17 6 2021 22 50 30 10.8 Drugs 2 HTV LTV 10
+-12
